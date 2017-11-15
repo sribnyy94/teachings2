@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet"  href="styles.css">
+ <!--[if lt IE 9]>
+ <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+ <![endif]-->
+<title>
+Наталья Сальникова | Бизнес-стратегия: Пора строить новое будущее для Вашей компании.</title>
+<link rel="stylesheet" href="slider.css">
+	<link href='https://fonts.googleapis.com/css?family=Roboto:400,700,500' rel='stylesheet' type='text/css'>
+	<script type="text/javascript" src="jquery-1.9.1.min.js"></script>
+	<script type="text/javascript" src="jquery.glide.js"></script>
+
+
+
+</head>
+<body> 
+
+
+
+
+
+<section class="section-keys" id="keys">
+  <div class="keyses-bg">
+   	<div class="slider">
+			<ul class="slides">
+<li class="slide">
+				   <div class="box">
+				      <div class="wrap">
+				      
+					  <div class="keys-right">
+					    <img src="http://salnikova.pro/wp-content/themes/Foxlite/img/keys/1.png" alt=""/>
+					  </div>
+                          <div class="keys-right">
+					    <img src="http://salnikova.pro/wp-content/themes/Foxlite/img/keys/1.png" alt=""/>
+					  </div>
+                          <div class="keys-right">
+					    <img src="http://salnikova.pro/wp-content/themes/Foxlite/img/keys/1.png" alt=""/>
+					  </div>
+                         
+					  <div class="clear"></div>
+				   </div>
+				   </div>
+				</li>
+				
+				
+<li class="slide">
+				   <div class="box">
+				   <div class="wrap">
+				    
+					  <div class="keys-right">
+					    <img src="http://salnikova.pro/wp-content/themes/Foxlite/img/keys/2.png" alt=""/>
+					  </div>
+					  <div class="clear"></div>
+				   </div>
+				  </div>
+				</li>
+				
+<li class="slide">
+				   <div class="box">
+				    <div class="wrap">
+				     
+					  <div class="keys-right">
+					    <img src="http://salnikova.pro/wp-content/themes/Foxlite/img/keys/3.png" alt=""/>
+					  </div>
+					  <div class="clear"></div>
+				   </div>
+				  </div>
+				</li>
+
+<li class="slide">
+				   <div class="box">
+				    <div class="wrap">
+				     
+					  <div class="keys-right">
+					    <img src="http://salnikova.pro/wp-content/themes/Foxlite/img/keys/5.png" alt=""/>
+					  </div>
+					  <div class="clear"></div>
+				   </div>
+				  </div>
+				</li>
+
+			</ul>
+		</div>
+  </div>
+
+</section>
+
+
+
+
+
+<!--<script>
+$(document).ready(function() {
+  $("[data-toggle]").click(function() {
+    var toggle_el = $(this).data("toggle");
+    $(toggle_el).toggleClass("open-sidebar");
+  });
+});
+</script>-->
+<!--<script>
+function anichange (objName) {
+ if ( $(objName).css('display') == 'none' ) {
+ $(objName).animate({height: 'show'}, 200);
+ } else {
+ $(objName).animate({height: 'hide'}, 200);
+ }
+}
+</script>-->
+ <!--<script>
+                $('ul li.strat-block').css('opacity', 0).each(function (i, elem) {
+                    $(this).delay(i * 600).animate({
+                        opacity: 1
+                    }, 1800, function(){
+                        $(this).animate({
+                       
+                    }, 1800);
+                    });
+                });
+</script>-->
+<script type="text/javascript">
+			var glide = $('.slider').glide().data('api_glide');
+
+				$(window).on('keyup', function (key) {
+					if (key.keyCode === 13) {
+						glide.jump(3, console.log('Wooo!'));
+					};
+				});
+$('.slider-arrow').on('click', function() {
+				console.log(glide.current());
+				
+				});
+		</script>
+
+
+
+	
+
+
+
+
+
+</body>
+</html>

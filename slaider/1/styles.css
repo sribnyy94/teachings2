@@ -1,0 +1,127 @@
+/*   
+Theme Name: clean
+Theme URI: http://foxlite.ru/
+Description: Nataly Salnikova
+Author: Michael Koshelev
+Author URI: http://foxlite.ru
+*/
+
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700&subset=latin,cyrillic-ext,cyrillic);
+
+
+
+
+/* ----- Section Keyses ----- */
+
+.section-keys {
+	padding: 70px 0 0 0;
+	 padding-bottom: 25px;
+}
+
+
+
+.section-keys h2 {
+	text-align: center;
+	color: #000;
+	font-size: 30px;
+	padding-bottom: 60px;
+	font-weight: 500;
+	margin-top: -30px;
+}
+
+.key-zg {
+	text-align: center;
+	color: #e7e7e7;
+	font-size: 40px;
+	text-transform: uppercase;
+	font-weight: 300;
+}
+
+
+.keys-left {
+	display: block;
+	width: 55%;
+	margin-left: 5%;
+	float: left;
+}
+
+.keys-right {
+	display: block;
+	width: 40%;
+	float: right;
+}
+
+.keys-name {
+	text-align: left;
+	color: #000;
+	font-size: 24px;
+	font-weight: 500;
+	padding-bottom: 50px;
+	padding-top: 20px;
+}
+
+.keys-time {
+    display: block;
+    background: url(img/icon/keys-time.png) center left no-repeat;
+    background-size: 30px 30px;
+    padding: 15px 10px 15px 50px;
+    color: #000;
+    font-size: 17px;
+    float: left;
+}
+
+.keys-time b {
+	font-size: 32px;
+	font-weight: 500;
+}
+
+
+.strel {
+	display: block;
+	width: 30px;
+	height: 40px;
+	padding: 10px 20px 0 20px;
+	background: url(img/icon/strelka.png) center center no-repeat;
+	float: left;
+}
+
+
+.keys-result {
+	display: block;
+        padding: 15px 10px 15px 0px;
+	color: #000;
+	font-size: 17px;
+	float: left;
+}
+
+.keys-result b {
+	font-size: 32px;
+	font-weight: 500;
+}
+
+
+.key-wat {
+	padding-top: 30px;
+	text-align: left;
+	color: #000;
+	font-size: 18px;
+	font-weight: 500;
+	padding-bottom: 20px;
+}
+
+.key-wat-text {
+	text-align: left;
+	width: 100%;
+	float: left;
+	color: #333333;
+	font-size: 16px;
+	padding-left: 20px;
+	background: url(img/icon/dot.png) center left no-repeat;
+	margin-bottom: 17px;
+}
+
+
+
+
+

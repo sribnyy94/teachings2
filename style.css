@@ -1,0 +1,554 @@
+@charset "UTF-8";
+@font-face {
+    font-family: GothamProLight;
+    src: url(../fonts/GothamProBold.ttf);
+}
+
+@font-face {
+    font-family: GothamProRegular;
+    src: url(../fonts/GothamProRegular.ttf);
+}
+
+@font-face {
+    font-family: GothamProMedium;
+    src: url(../fonts/GothamProMedium.ttf);
+}
+
+@font-face {
+    font-family: GothamProBold;
+    src: url(../fonts/GothamProBold.ttf);
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    margin: 0 auto;
+background-color:#1a1a1a;
+}
+
+header {
+    width: 100%;
+    height: 150px;
+   
+}
+
+header ul{
+    
+float: left;
+    list-style: none outside none;
+    width: 50%;
+        padding: 0;
+        
+   margin: 0 auto;
+    padding-top: 70px;
+}
+header ul li{
+    display: inline-block;
+     list-style-type: none;
+    color: #fff;
+    margin-right: 30px;
+    font-size: 18px;
+  font-family: "BanderaPro";
+  color: rgb(255, 255, 255);
+  text-decoration: underline;
+  line-height: 1.222;
+  text-align: left;
+}
+header ul li a{
+     text-decoration: none;
+ 
+        color: #fff;
+       
+}
+
+
+.main .wrapper:after {
+    content: " ";
+    height: 1px;
+    display: block;
+    width: 100%;
+    clear: both;
+}
+
+.bott{
+   
+    float: right;
+      padding-top: 50px;
+}
+
+
+
+.bott a {
+     
+     font-size: 18px;
+  font-family: "Bandera Pro";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.222;
+  text-align: left;
+}
+
+.bott  .button1 {
+   
+    width: 275px;
+   
+   background-color: #ff0034;
+    display: inline-block;
+    color: #fff;
+    text-align: center;
+    outline: none;
+   
+    padding: 18px;
+    text-decoration: none;
+    transition: background-color 0.2s ease-out, color 0.2s ease-out, box-shadow 0.3s ease-in;
+}
+/*=======================================================================================================================================*/
+
+.main{
+    padding: 0;
+  width: 100%;
+   background:#fff url(img/leva.png) no-repeat center; 
+    background-size: cover;
+     vertical-align: top;
+    height: 800px;
+    
+   
+}
+.main .wrapper:after {
+    content: " ";
+    height: 1px;
+    display: block;
+    width: 100%;
+    clear: both;
+}
+
+.main h2{
+    padding-top: 80px;
+    font-size: 35px;
+  font-family: "Bandera Pro";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+     margin: 0 auto;
+}
+.main h1{
+     padding-top: 15px;
+    margin: 0 auto;
+    font-size: 67px;
+  font-family: "Bandera Pro";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+    text-transform: uppercase;
+}
+.main p{
+   
+  font-size: 16px;
+  font-family: "Bandera Pro";
+  color: rgba(255, 255, 255, 0.702);
+  line-height: 1.375;
+  text-align: left;
+  
+}
+
+.bott2 a {
+    
+    
+   
+   
+    font-size: 18px;
+  font-family: "Bandera Pro";
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  line-height: 1.222;
+  text-align: right;
+  
+}
+.bott2{
+     position: relative;
+    z-index: 20;
+    
+      padding-top: 50px;
+}
+
+
+.main  .button2 {
+  
+     padding-top: 35px;
+  
+    border: #ff0034 3px solid;
+       color: #fff;
+    text-align: right;
+   /* outline: none;*/
+   
+    padding: 20px 15px 20px 50px;
+    text-decoration: none;
+    transition: background-color 0.2s ease-out, color 0.2s ease-out, box-shadow 0.3s ease-in;
+}
+.form {
+      background: url(img/Forma1.png)  no-repeat center; 
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    margin-left: 19px;
+}
+/*=======================================================================================================================================*/
+.two .wrapper:after {
+    content: " ";
+    height: 1px;
+    display: block;
+    width: 100%;
+    clear: both;
+}
+
+.two{
+    width: 100%;
+    padding-top: 120px;
+}
+.two h1{
+     padding-top: 15px;
+    margin: 0 auto;
+   font-size: 36px;
+  font-family: "Bandera Pro";
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  line-height: 0.611;
+  text-align: center;
+}
+
+.two ul{
+    padding-top: 70px;
+    width: 100%;
+    list-style-type: none;
+}
+.two ul li{
+    width: 25%;
+   display: inline-block;
+    margin-left: -6px;
+}
+.two ul li p{
+        width: 80%;
+    margin: 0 auto;
+  
+  font-size: 18px;
+  font-family: "Bandera Pro";
+  color: rgb(255, 255, 255);
+  line-height: 1.222;
+  text-align: center;
+  }
+ 
+.two li img {
+    display: block;
+    margin: 0 auto;
+    width: 100px;
+    margin-bottom: 30px;
+}
+
+
+.two b {
+   color: #ff0034;
+   text-align: center;
+}
+
+/*=======================================================================================================================================*/
+.three.wrapper:after {
+    content: " ";
+    height: 1px;
+    display: block;
+    width: 100%;
+    clear: both;
+}
+
+.three{
+    width: 100%;
+    padding-top: 125px;
+}
+.three img{
+    display: block;
+    margin:0 0 0 380px; 
+    
+}
+
+.three h1{
+    margin: 0 auto;
+     font-size: 36px;
+  font-family: "Bandera Pro";
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  
+  text-align: center;
+   
+}
+.three p{
+    padding-top: 45px;
+    font-size: 16px;
+  font-family: "Bandera Pro";
+  color: rgb(204, 204, 204);
+  line-height: 1.375;
+  text-align: center;
+}
+.kindss{
+    width: 100%;
+     padding-top: 80px;
+      height: 275px;
+    padding-bottom: 90px;
+}
+
+.kinds {
+   
+       vertical-align: top;
+    width: 25%;
+   
+   display: inline-block;
+    margin-left: -6px;
+ }
+
+
+.kinds img {
+    
+    display: block;
+    margin: 0 auto;
+   /* width:85%;*/
+   
+}
+.kinds p{
+    padding: 0;
+    position: relative;
+    top: -80px;
+    font-size: 18px;
+  font-family: "Bandera Pro";
+  color: rgb(255, 255, 255);
+  line-height: 1.222;
+  text-align: center;
+    text-transform: uppercase;
+}
+.kinds h4{
+    position: relative;
+    top: -85px;
+    font-size: 10px;
+  font-family: "Bandera Pro";
+  color: #848484;
+  line-height: 1.222;
+  text-align: center;
+    
+}
+/*=======================================================================================================================================*/
+
+
+.four .wrapper:after {
+    content: " ";
+    height: 1px;
+    display: block;
+    width: 100%;
+    clear: both;
+}
+
+.four{
+     padding-top: 80px;
+  width: 100%;
+   background:#fff  url(img/four.png) no-repeat center; 
+    background-size: cover;
+    
+  
+     box-sizing: border-box;
+    position: relative;
+    z-index: 20;
+    
+}
+.four h1{
+   font-size: 36px;
+  font-family: "Bandera Pro";
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  line-height: 0.611;
+  text-align: center;
+
+}
+.four p{
+   
+  font-size: 18px;
+  font-family: "Bandera Pro";
+  color: rgb(255, 255, 255);
+  line-height: 1.222;
+  text-align: center;
+  
+}
+.bott3{
+  padding-top: 40px;
+}
+.four .button3 {
+    font-size: 20px;
+  font-family: "Bandera Pro";
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  line-height: 1.1;
+  text-align: center;
+   display: block;
+    margin: 0 auto;
+    width: 300px;
+   border: #ff0034 3px solid;
+       color: #fff;
+    text-align: center;
+  padding: 20px 15px 20px 15px;
+    text-decoration: none;
+    transition: background-color 0.2s ease-out, color 0.2s ease-out, box-shadow 0.3s ease-in;
+}
+/*=======================================================================================================================================*/
+
+
+.five .wrapper:after {
+    content: " ";
+    height: 1px;
+    display: block;
+    width: 100%;
+    clear: both;
+}
+
+.five{
+     padding-top: 50px;
+  width: 100%;
+  
+    
+}
+.one{
+    display: block;
+    height: 60px;
+    width: 100%;
+}
+.five p {
+    float: left;
+  font-size: 20px;
+  font-family: "Bandera Pro";
+  color: rgb(255, 255, 255);
+  line-height: 1.1;
+  text-align: left;
+
+}
+
+.five b {
+    padding: 4px;
+   
+    background: #ff0034;
+    color: #fff;
+    font-weight: 300;
+    max-width: 40px;
+    text-align: center;
+}
+
+.five .blok{
+    margin-right: 10px;
+    float: right;
+}
+
+
+.five .blokss{
+    width: 100%;
+    margin-left: -6px;
+    display: inline-block;
+}
+
+.five .blok-left{
+    display: inline-block;
+    width: 63%;
+    height: 240px;
+  
+}
+.five .blok-right{
+     display: inline-block;
+     width: 35%;
+    height: 240px;
+    margin-left: 10px;
+}
+.five .blok-right img{
+    width: 100%;
+}
+
+/*=======================================================================================================================================*/
+
+.six .wrapper:after {
+    content: " ";
+    height: 1px;
+    display: block;
+    width: 100%;
+    clear: both;
+}
+
+.six{
+     padding-top: 40px;
+  width: 100%;
+ }
+.six h1{
+    font-size: 36px;
+  font-family: "Bandera Pro";
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  line-height: 0.611;
+  text-align: center;
+  width: 100%;
+ }
+.six img{
+    width: 100%;
+    padding-top: 20px;
+}
+
+/*=======================================================================================================================================*/
+
+.seven .wrapper:after {
+    content: " ";
+    height: 1px;
+    display: block;
+    width: 100%;
+    clear: both;
+}
+
+.seven{
+    padding-top: 20px;
+  width: 100%;
+   
+ }
+.seven .fot{
+    background: url(img/64.png) no-repeat center; 
+ background-size: 100%;
+    height: 2px;
+     vertical-align: top;
+}
+.seven p{
+    padding-top: 20px;
+     font-size: 14px;
+  font-family: "Bandera Pro";
+  color: rgb(153, 153, 153);
+  line-height: 1.571;
+  text-align: left;
+    float: left;
+}
+.seven h3{
+      padding-top: 20px;
+    float: right;
+    font-size: 14px;
+  font-family: "Bandera Pro";
+  color: rgb(153, 153, 153);
+  line-height: 1.571;
+  text-align: left;
+}
+
+.seven b{
+   
+   color: #ff0034;
+   text-align: center;
+text-decoration:underline;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
